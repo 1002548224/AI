@@ -1,0 +1,6 @@
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-1-padded.wav'
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-2-padded.wav'
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-3-padded.wav'
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-4-padded.wav'
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-5-padded.wav'
+file 'G:/工作文档/陈思敏年中总结-数字人视频/旁白/voice-6-padded.wav'
